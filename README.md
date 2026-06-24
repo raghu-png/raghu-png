@@ -1,7 +1,7 @@
 # Hi, I'm Raghavendra 👋
 
 **DevOps Engineer | Cloud Engineer (Fresher)**  
-📍 Kalaburagi, Karnataka, India  
+📍 Bangalore, Karnataka, India  
 📧 raghavendra6764@gmail.com
 
 ---
